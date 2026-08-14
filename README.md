@@ -18,4 +18,4 @@ Working features on Armbian Linux 7.0.14-edge-sunxi64:
 
     LED
 
-Test image: https://drive.google.com/file/d/1CYghtHRRs3E6qJPG_bcjxAMzJdEeSb-q
+Test image: [Armbian-unofficial_26.08.0-trunk_Mortal-T1_trixie_edge_7.0.14_minimal + Kodi_v22-beta1 ](https://drive.google.com/drive/folders/1RSlYwQBddcx5V0bcnmWxd3bVnmWiGQwJ?usp=sharing)
